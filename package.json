@@ -1,0 +1,25 @@
+{
+  "name": "eelly",
+  "version": "0.0.6",
+  "description": "eelly",
+  "main": "eelly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "bin": {
+    "eelly": "bin/eelly"
+  },
+  "author": "zqc",
+  "license": "BSD",
+  "dependencies": {
+    "fis": "^1.8.6",
+    "fis-parser-bdtmpl": "0.0.3",
+    "fis-parser-handlebars": "0.0.1",
+    "fis-parser-less": "^0.1.2",
+    "fis-parser-marked": "0.0.5",
+    "fis-parser-sass": "^0.2.1"
+  }
+}
